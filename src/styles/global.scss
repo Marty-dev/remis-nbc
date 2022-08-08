@@ -7,3 +7,18 @@ body {
         "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
         "Noto Color Emoji";
 }
+
+.special-color {
+    color: #2F7E81;
+}
+
+.special-bg-color {
+    background-color: #2F7E81;;
+}
+
+.background-half-white {
+    height: 50%;
+    width: 100%;
+    background-color: white;
+    z-index: -1;
+}

@@ -1,7 +1,9 @@
 export { Header } from "./header";
-export { Logo } from "./logo";
+export { Logo } from "./images/remis";
+export { CzechFlag } from "./images/czech_flag";
+export { UkFlag } from "./images/uk_flag";
+export { MainBackground } from "./images/main_background";
 export { Main } from "./main";
 export { Button } from "./button";
-export { Cards } from "./cards";
 export { Footer } from "./footer";
 export { Container } from "./container";
