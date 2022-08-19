@@ -8,8 +8,8 @@ export const Header: React.FC = () => {
         <div className="flex justify-around">
             <Logo />
             <div className="flex pt-7 text-base font-bold space-x-12">
-                <Link href="/" className="border-x-2 hover:border-green-700">
-                    <a>Domů</a>
+                <Link href="/">
+                    <a className="border-t-2 border-b-2 hover:border-[#2F7E81]">Domů</a>
                 </Link>
                 <Link href="/" className="border-x-2 hover:border-green-700">
                     <a>Segmenty</a>
