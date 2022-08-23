@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export const Logo: React.FC = () => {
     return (
-        <div className="pl-8 py-3">
+        <div className="py-[1.188rem] ml-[4.375rem] place-items-center">
             <Image
                 src="/icons/remis-nbc-icon.svg"
                 alt="remis-nbc"
